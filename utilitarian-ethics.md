@@ -13,7 +13,7 @@ Post 1
 ======
 January 24, 2019 
 
-### Utilitrianism Statement of *Purpose*
+### Utilitarianism Statement of *Purpose*
 
 #### What makes an action ethical? 
 
@@ -22,26 +22,25 @@ January 24, 2019
 #### The predisposition people have to act ethically 
 
 #### Three issues in computing technology related to utilitarianism
-1. *Ex 1*
-2. **Ex 2**
-3. **Ex 3**
+1. *Example 1*
+2. *Example 2*
+3. *Example 3*
 
 -------------------------------------------------------------------
 
 ### On the IEEE code of ethics
-
 #### Similarities: 
 #### Differences: 
 #### Something missing: 
+
 
 ### On the ACM code of ethics 
-
 #### Similarities: 
 #### Differences: 
 #### Something missing: 
 
-### On the ICCP code of ethics 
 
+### On the ICCP code of ethics 
 #### Similarities: 
 #### Differences:
 #### Something missing:  
