@@ -10,18 +10,18 @@ coursepage: false
 ### ― Jeremy Bentham, *Advice to a young girl* 
 
 Post 1
-------
+======
 January 24, 2019 
 
-##Utilitrianism Statement of *Purpose*
+### Utilitrianism Statement of *Purpose*
 
-### What makes an action ethical? 
+#### What makes an action ethical? 
 
-### What triggers the need to evaluate how ethical an action is?
+#### What triggers the need to evaluate how ethical an action is?
 
-### The predisposition people have to act ethically 
+#### The predisposition people have to act ethically 
 
-### Three issues in computing technology related to utilitarianism
+#### Three issues in computing technology related to utilitarianism
 1. **Ex 1**
 2. **Ex 2**
 3. **Ex 3**
