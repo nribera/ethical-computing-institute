@@ -22,7 +22,7 @@ January 24, 2019
 #### The predisposition people have to act ethically 
 
 #### Three issues in computing technology related to utilitarianism
-1. **Ex 1**
+1. *Ex 1*
 2. **Ex 2**
 3. **Ex 3**
 
@@ -30,21 +30,21 @@ January 24, 2019
 
 ### On the IEEE code of ethics
 
-#### Similarities 
-#### Differences 
-#### Something missing 
+#### Similarities: 
+#### Differences: 
+#### Something missing: 
 
 ### On the ACM code of ethics 
 
-#### Similarities 
-#### Differences 
-#### Something missing 
+#### Similarities: 
+#### Differences: 
+#### Something missing: 
 
 ### On the ICCP code of ethics 
 
-#### Similarities 
-#### Differences 
-#### Something missing 
+#### Similarities: 
+#### Differences:
+#### Something missing:  
 
 
 
