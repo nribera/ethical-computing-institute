@@ -44,7 +44,7 @@ coursepage: true
 + [If Corporations Are People, They Should Act Like It](https://www.theatlantic.com/politics/archive/2015/02/if-corporations-are-people-they-should-act-like-it/385034/ "If Corporations are People, They Should Act Like It")
 + [Are Google, Amazon and Others Getting Too Big?](https://www.bbc.com/news/business-39875417 "Are Google, Amazon, and Others Getting Too Big?")
 + ['Corporations Are People' Is Built on an Incredible 19th-Century Lie](https://www.theatlantic.com/business/archive/2018/03/corporations-people-adam-winkler/554852/ "'Corporations are People' is Built on an Incredible 19th-Century Lie")
-
++ ['World Without Mind': How Tech Companies Pose An Existential Threat](https://www.npr.org/sections/alltechconsidered/2017/09/11/550177421/world-without-mind-how-tech-companies-pose-an-existential-threat "World Without Mind")
 ###Corporate Social Responsibility
 + [What is Corporate Social Responsibility?](https://www.businessnewsdaily.com/4679-corporate-social-responsibility.html "What is Corporate Social Responsibility?")
 + [The Rise of Corporate Social Responsibility](https://newrepublic.com/article/147293/rise-corporate-social-responsibility "The Rise of Corporate Social Responsibility")
