@@ -59,7 +59,7 @@ coursepage: true
   + With regard to your framework, an answer to the question: What triggers the need to evaluate how ethical an action is? (5 Points)
   + Discuss the predisposition people have to act ethically according to your framework (if this is not stated, explain why that may be). (5 Points)
   + A brief summary of three issues in computer technology you believe your ethical framework would have a lot to say about (these do not necessarily have to be topics covered in class). (10 Points)
-+ Each of the three codes of ethics responses (~300 Words) must:
++ Each of the three codes of ethics responses (~300 Words Each) must:
   + Briefly summarize the similarities between the code of ethics and your ethical framework. (4 Points)
   + Briefly summarize the differences between the code of ethics and your ethical framework. (4 Points)
   + State something that is *missing* from the code of ethics which your ethical framework can provide. (2 Point)
@@ -101,3 +101,36 @@ coursepage: true
     + If your framework does not have any particular insight for an issue, provide your own while matching the sentiments of your framework as best as you can.
 + The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
 
+## Website Post 3 (60 Points) <a name="website-post-3">
+### Purpose:
++ Identify issues in corporate ethical responsibility in tech.
++ Critique an unethical corporate action in tech.
++ Compare potential solutions to current corporate ethical issues in tech.
++ Create a new solution to unethical corporate behavior by applying your assigned ethical framework.
+
+### Instructions:
++ Use the fork of the course GitHub repository you set up in [Website Post 1](course-assignments#website-post-1) to commit your Git changes.
+  + Make a pull request to the original repository by the due date.
++ Write a summary of corproate ethical resonsibility issues in tech.
++ Write a critique of a specific unethical corporate action using your ethical framework as a guide.
++ Write a comparison between two proposed methods for solving unethical corporate behavior.
++ Write a proposed way to enforce/reinforce corporate social responsibility according to your ethical framework.
+
+### Due Date:
++ Your pull request to the original GitHub repository is due when class starts (15:30) on 02/07/2019.
+
+### Requirements:
++ Your summary (~500 Words) must include:
+  + A brief summary of *at least* three outstanding issues in corporate ethical responsibility in tech. (5 Points)
++ Your critique (~1,000 Words) must include:
+  + A summary of the specific unethical corporate action being analyzed. (5 Points)
+  + An identification of *why* that action is unethical as defined by your ethical framework. (10 Points)
+  + A conclusion of how the corporation may have acted ethically in the situation, accord to your framework. (5 Points)
++ Your comparison (~1,000 Words) must include:
+  + A summary for both proposed methods to solve unethical corporate behavior. (5 Points)
+  + A comparison between the two proposed methods. (10 Points)
+  + A conclusion stating which proposal is *more* favorable according to your ethical framework. (5 Points)
++ Your proposal (~700 Words) must include:
+  + A general overview of how your ethical framework would enforce or reinforce corporate social responsibility. (5 Points)
+  + A brief example of an instance where the proposed overview would correct unethical behavior. (5 Points)
++ The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
