@@ -38,4 +38,16 @@ coursepage: true
 + [Commentary: The H-1B Visa Problem as IEEE-USA Sees It](https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/commentary-the-h1b-problem-as-ieeeusa-sees-it "IEEE Commentary on H-1B Visa Problem")
 + [Engineers Are Leaving Trump’s America for the Canadian Dream](https://www.bloomberg.com/news/features/2018-04-20/h-1b-workers-are-leaving-trump-s-america-for-the-canadian-dream "Engineers Are Leaving Trump's America for the Canadian Dream")
 
+## Corporate Ethical Responsibility
+### Corporate Personhood
++ [How Corporations Got The Same Rights As People (But Don’t Ever Go To Jail)](https://consumerist.com/2014/09/12/how-corporations-got-the-same-rights-as-people-but-dont-ever-go-to-jail/ "How Corporations Got the Same Rights as People")
++ [If Corporations Are People, They Should Act Like It](https://www.theatlantic.com/politics/archive/2015/02/if-corporations-are-people-they-should-act-like-it/385034/ "If Corporations are People, They Should Act Like It")
++ [Are Google, Amazon and Others Getting Too Big?](https://www.bbc.com/news/business-39875417 "Are Google, Amazon, and Others Getting Too Big?")
++ ['Corporations Are People' Is Built on an Incredible 19th-Century Lie](https://www.theatlantic.com/business/archive/2018/03/corporations-people-adam-winkler/554852/ "'Corporations are People' is Built on an Incredible 19th-Century Lie")
++ ['World Without Mind': How Tech Companies Pose An Existential Threat](https://www.npr.org/sections/alltechconsidered/2017/09/11/550177421/world-without-mind-how-tech-companies-pose-an-existential-threat "World Without Mind")
 
+### Corporate Social Responsibility
++ [What is Corporate Social Responsibility?](https://www.businessnewsdaily.com/4679-corporate-social-responsibility.html "What is Corporate Social Responsibility?")
++ [The Rise of Corporate Social Responsibility](https://newrepublic.com/article/147293/rise-corporate-social-responsibility "The Rise of Corporate Social Responsibility")
++ [The Techlash Against Amazon, Facebook and Google — and What They Can Do](https://www.economist.com/briefing/2018/01/20/the-techlash-against-amazon-facebook-and-google-and-what-they-can-do "The Techlash Against Amazon, Facebook, and Google")
++ [Playing Monopoly: What Zuck Can Learn From Bill Gates](https://www.wired.com/story/playing-monopoly-what-zuck-can-learn-from-bill-gates/ "Playing Monopoly: What Zuck can Learn from Bill Gates")
