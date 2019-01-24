@@ -9,7 +9,7 @@ coursepage: false
 ## “That which exercises reason is more excellent than that which does not exercise reason; there is nothing more excellent than the universe, therefore the universe exercises reason.”
 ### ― Zeno of Citium, *De Natura Deorum* by Cicero
 
-Purpose:
+### **Stoicism's Statement of Purpose:**
 
 An ethical action according to the Stoic Ethics framework is an action taken with rational thinking. A rational action is free of passion, as passion is damaging to the soul. To achieve this action, one must find a way for reason to overrule raw emotion. This can be done with virtue, virtue is believed to be the only thing in this world that always contributes to happiness. Unlike plants and animals, which are motivated by self-love of their physical bodies (appropriation), Stoics believe that humans are motivated by self-love of their rationality. This rationality not only accounts for an appreciation of one’s self and family, but for the human race as whole. The corruption of reason is the only thing in this world that always leads to misery. Vice causes a corruption of reason. Everything besides virtue and vice are indifferents.
 Stoics believe that the best possible world for humans is a world of happiness. The key to achieving this world of happiness is by living in agreement with nature. They believe that there is no luck, but rather an ordered and rational sequence of events that is supposed to happen. Everyone has a fate, or a role to play in the attempt for a perfectly rational world. The only way to create a world of flourishing is by everyone performing an ethical action at every step of the way, as willed by Zeus. This triggers the need to evaluate just how ethical an action is, as there will always be a right answer. The framework to make the right decision will always be reason.
@@ -18,7 +18,7 @@ One ethical issue in computer technology is deciding how much security protectio
 Another ethical issue is how much privacy should individuals be granted online. To what extent should employers be secretly monitoring the accounts of its employees. A Stoic would point out that individuals deserve at least some modicum of privacy, but also realize that employers must keep their company safe. A Stoic might propose that employers be allowed to monitor employee accounts directly related to the company, but also inform the employees of this possible monitoring. An employee’s private accounts should be respected. As people with reason, the well-being of employees should be more important than the slightly increasing company success.
 Another issue that a Stoic may weigh in on is deciding when to fix a minor bug instead of working on bigger future features. This is important because the order in which developers choose what to work on directly impacts paying customers. A Stoic would believe that the developer has a professional responsibility to give users the best experience possible. This issue is difficult, as it is tough to speak for the customers as to which choice is more desirable. I believe a Stoic would probably lean towards developing better features first, to provide users with the best overall experience in the long run.
 
-Stoicism and the IEEE Code of Ethics:
+###**Stoicism and the IEEE Code of Ethics:**
 
 Stoics believe that professional work and conduct is “indifferent”, not good or evil on its own. The nature in which one makes decisions and works determines if an action is virtuous. Therefore, the IEEE Code of Ethics generally agrees with Stoicism as it lists rules for how to make professional work virtuous.
 
@@ -28,7 +28,7 @@ The main contrast between Stoicism and the IEEE Code of Ethics is that Stoics on
 
 Stoics want to live virtuously because they believe it is the only way to achieve happiness. The IEEE Code lacks any focus on the benefit of following these standards. Stoicism could add to this code of ethics by giving it more of a purpose. For example, a phrase saying that following this code of ethics and behaving virtuously will lead to happiness in one’s professional life.
 
-Stoicism and the ACM code of ethics:
+###**Stoicism and the ACM code of ethics:**
 
 Stoicism focuses on vices and virtues of humanity for part of its definition.  To be virtuous, Stoics believe that basing all things in life on perfected reason to be the height of achievement.  Perfected reason says that one should be freed from all passion, letting reason dictate all actions.  The last section of the ACM code, “Compliance with the Code”, follows perfected reasoning. All members are to uphold and promote the principles of the Code, and if anyone violates the Code, those actions will be treated as inconsistent with the Code and ACM membership and may result in ACM membership termination - the only reasonable outcome when a member pledges to follow the code. Additionally, following the four main virtues, the ACM strives to uphold those throughout its first section “General Moral Imperatives” by highlighting resourcefulness, honesty, diligence, and decency, to name a few.
 
@@ -36,7 +36,7 @@ Stoicism and the ACM Code of Ethics however differs greatly overall.  Stoicism i
 
 The desire to achieve happiness by living virtuously is the overall goal of Stoicism.  The Association for Computing Machinery Code of Ethics completely avoids any language on the outcome of proper membership.  Stoics can experience good feelings, as long as they are tempered, but it appears as if those in the ACM do not have the ability to enjoy or take pride in their work as defined by its Code.  Adding these details to the ACM Code would be powerful and influential for any member diligently following the Code.
 
-Stoicism and the ICCP Code of Ethics:
+###**Stoicism and the ICCP Code of Ethics:**
 
 Stoics uphold reason as the greatest form of excellence in existence. They also uphold that rational thinking and the fulfillment of an ethos based on reason is accomplished through virtue. Actions that are in alignment with virtue, and therefore with reason, produce happiness as a direct result. The ICCP Code of Ethics is in many ways synergetic with Stoicism. Following this code of ethics requires those certified by this organization to act in the name of particular virtues. Professionalism, commitment to continuing education and maintaining a high standard of skill and knowledge, honesty, competence, integrity, and consequences for failing to fulfill these virtues are at the heart of this code of ethics. Acting in accordance with these virtues both brings reason - and reasonable paths to happiness - to members of the ICCP and those they impact in their professional lives. Furthermore, these virtues outlined in the ICCP Code of Ethics work well with the four categories outlined in Stoicism: wisdom, justice, courage, and moderation.
 
