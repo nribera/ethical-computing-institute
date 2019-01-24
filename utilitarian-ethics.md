@@ -7,21 +7,21 @@ coursepage: false
 ---
 
 ## “Create all the happiness you are able to create; remove all the misery you are able to remove. Every day will allow you, --will invite you to add something to the pleasure of others, --or to diminish something of their pains.”
-### ― Jeremy Bentham, *Advice to a young girl* 
+### ― Jeremy Bentham, *Advice to a young girl*
 
 Post 1
 ======
-January 24, 2019 
+January 24, 2019
 
 ### Utilitarianism Statement of *Purpose*
 
-#### What makes an action ethical? 
-An action is ethical when it leads to the "best" end result possible based on that choice of action. "Best", in terms of Utilitarianism, is defined as bringing the most happiness and pleasure to the most people at the greatest intensity, proximity, and purity and for the longest duration. This happiness and pleasure can also be referred to as "utility", hence the name of this ethical framework. An ethical action considers the happiness of every person it could effect equally, not just the personal happiness of the doer. 
+#### What makes an action ethical?
+An action is ethical when it leads to the "best" end result possible based on that choice of action. "Best", in terms of Utilitarianism, is defined as bringing the most happiness and pleasure to the most people at the greatest intensity, proximity, and purity and for the longest duration. This happiness and pleasure can also be referred to as "utility", hence the name of this ethical framework. An ethical action considers the happiness of every person it could effect equally, not just the personal happiness of the doer.
 
 #### What triggers the need to evaluate how ethical an action is?
-Jeremy Bentham wrote utilitarian ethics with the intention to apply them toward social and legal reform. In this way, utilitarianism calls people to evaluate the utility of actions when writing laws or social codes of conduct. But in evaluating the utility, it is important to remember that only the end consequences of these laws should be considered in measuring how ethical it is -- not a given person's reaction to the law. Because different environmental and social circumstances could lead to different consequences, laws must be re-evaluated on their ethicalness frequently to adjust to changing times. 
+Jeremy Bentham wrote utilitarian ethics with the intention to apply them toward social and legal reform. In this way, utilitarianism calls people to evaluate the utility of actions when writing laws or social codes of conduct. But in evaluating the utility, it is important to remember that only the end consequences of these laws should be considered in measuring how ethical it is -- not a given person's reaction to the law. Because different environmental and social circumstances could lead to different consequences, laws must be re-evaluated on their ethicalness frequently to adjust to changing times.
 
-#### The predisposition people have to act ethically 
+#### The predisposition people have to act ethically
 
 A predisposition is the tendency to hold a particular attitude or act in a certain way. According to this definition, people may or may not have a predisposition to act ethically depending on whether they are a self-centered or more self-aware person. A more self-centered person might not have a predisposition because they are focused on the greatest pleasure for themselves, not necessarily the greatest number of people. However, a more self-aware person might always want to create the greatest good for the greatest number of people, and thus will be more predisposed to act 'ethically' according to the utilitarian framework.
 
@@ -50,23 +50,30 @@ IEEE code of ethics requires its members to “reject bribery in all its forms�
 Utilitarianism provides a clear instruction on judging what should and should not be done. We should do anything that maximizes the overall good for all people and stay away from the other ones. IEEE tells us to avoid conflict of interests if possible, but it fails to provide a solution if the conflict is unavoidable. Utilitarianism could provide a way to resolve conflicts when necessary (though it might not be the best way).
 
 
-### On the ACM code of ethics 
+### On the ACM code of ethics
 
-#### Similarities: 
+#### Similarities:
 Many of the moral imperatives of the ACM Code of Ethics align with the Utilitarian framework. As it is stated in the first imperative, the ACM believes that professionals should "contribute to society and human well-being". This ideal is strongly related to Utilitarianism as it encourage professionals to use their abilities to improve society and people’s lives. Another strong resemblance to Utilitarianism can be seen in the second imperative, which states that professionals should “avoid harm to others”.  In other words, the ACM Code of Ethics, like Utilitarianism, sees ethical actions as producing happiness and minimizing pain.
 
 #### Differences:
-Although there aren’t direct contradictions between the ACM Code of Ethics and Utilitarianism, if the Utilitarian framework is applied to certain situations, it might result in a violation of the ACM Code of Ethics. For example, the ACM greatly values honoring privacy, confidentiality, copyrights and intellectual property. However, a Utilitarian might easily break one of these ideals if it were to maximize overall happiness. As for instance, leaking a confidential document would be seen as a serious offense by the ACM, but for an Utilitarian it would be an ethical decision if the confidential information would benefit the general public.
+Although there aren’t direct contradictions between the ACM Code of Ethics and Utilitarianism, if the Utilitarian framework is applied to certain situations, it might result in a violation of the ACM Code of Ethics. For example, the ACM greatly values honoring privacy, confidentiality, copyrights and intellectual property. However, a Utilitarian might easily break one of these ideals if it were to maximize overall happiness. For instance, leaking a confidential document would be seen as a serious offense by the ACM, but for an Utilitarian it would be an ethical decision if the confidential information would benefit the general public.
 
 #### Something missing that Utilitarianism can provide:
 Utilitarianism can help complement and further expand on the ACM Code of Ethics. As for instance, ACM states that professionals should "contribute to society and human well-being". However, the code doesn't expand very much on how exactly this should be done and how professionals should have this imperative in mind when making decisions. The Utilitarian framework can provide a more structured definition on what contributing to society and human well-being really means (i.e. maximizing happiness). Although applying Utilitarianism to the ACM Code of Ethics may cause some contradictions, it can help expand on some moral imperatives and give more strict guidelines on how professionals should act.
 
 
-### On the ICCP code of ethics 
-#### Similarities: 
+### On the ICCP code of ethics
+Note: using the old ICCP code, found [here](https://www.iccp.org/uploads/8/1/2/9/81293176/iccp_code_of_ethics.pdf).
+
+#### Similarities:
+The ICCP Code of Conduct and Code of Good Practice include many tenets which fall within Utilitarianism. These tenets include emphases on social responsibility, public education, and accountability, which coincide with Utilitarianism's focus on maximizing the greater good. The Code of Good Practice also includes public safety as a major tenet, which again represents the Utilitarian ideal of maximizing wellbeing for all.
+
+Another way in which the ICCP Code of Conduct matches with Utilitarianism is impartiality. Like the IEEE Code of Ethics, ICCP stresses impartiality—avoiding conflicts of interest, maintaining honesty and integrity, and
+
 #### Differences:
-#### Something missing:  
+Like the ACM and IEEE codes, one of the main ways in which the ICCP code could contradict Utilitarianism is in its restrictions to honor privacy, confidentiality, and other social and professional norms. In general, Utilitarianism takes the view that the ends justify the means and that if an action that might generally be understood as "wrong" (e.g. lying, breaking a contract, taking bribes) leads to a good outcome, that action is ethical. The ICCP code generally rejects this idea, explicitly rejecting decisions which it determines are wrong, regardless of the outcome. In this spirit, the ICCP requires discretion, law-abidance, and protection of privacy.
 
+#### Something missing that Utilitarianism can provide:
+The ICCP Codes of Conduct and Good Practice outline certain types of conduct as either encouraged or disallowed, but many real-world decisions can be morally ambiguous when looked at through this sort of lens. For instance, choosing whether to disclose a non-critical bug in a piece of software does not directly concern the Code's discussion of public safety or social responsibility, so the Utilitarian principle of maximizing happiness can be used to make a decision.
 
-
-
+In addition, the Code of Good Practice makes the broad claim that "computing professionals must ensure that their efforts are used to benefit humanity." While the ICCP does not define what constitutes a benefit to humanity, Utilitarianism can provide the framework with which to measure a benefit to humanity.
