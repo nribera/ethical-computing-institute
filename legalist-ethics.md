@@ -23,7 +23,7 @@ The need to evaluate how ethical an action is the maintenance of a structurally 
 According to the legalist ethical framework, people who abide by the laws enforced by the ruler will be rewarded, and those who do not abide by the laws will be punished. In almost all cases people would prefer being rewarded, or favored, over being punished and we think this alone would cause people to act ethically. In this framework people will choose to act with obedience to the law based on the fear of punishment they could suffer from if they chose to act immorally. People will also choose to follow the law based on the favor they could receive from their ruler, or government. The framework assumes that people cannot be trusted to act ethically on their own, and must be guided by law.
 
 ### What are some relevant technological issues?
-#### Privacy vs. Security
+#### Privacy vs. Security 
 Especially following the Snowden leaks, debates over privacy versus security have risen to the forefront. Government surveillance can potentially prevent crimes and catch perpetrators, but at the cost of privacy. Under a legalistic framework,  privacy is irrelevant unless it contributes to the state’s authority, but security is a very important issue. One of the founders of legalism, Shang Yang, implemented a mutual spying system (peer review, as its known today), with the goal of keeping citizens in check. It is certain that under a legalistic framework, statewide surveillance would be applauded as a necessary measure to maintain control.
 
 #### Copyright Law
