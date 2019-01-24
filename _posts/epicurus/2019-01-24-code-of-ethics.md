@@ -1,13 +1,13 @@
 ---
 layout: epicurus-postpage
-title: "Epicurean Ethics Post 1"
-image: ../css/epicurus.png
+title: "Post 1: Code of Ethics"
+date: 2019-01-24 01:00:00 -0500
+image: /ethical-computing-institute/css/epicurus.png
 epicurus-postpage: true
 subpage: false
 coursepage: false
+categories: epicurus
 ---
-
-# Codes of Ethics
 
 ## Purpose
 
