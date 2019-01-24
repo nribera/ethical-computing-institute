@@ -1,9 +1,10 @@
 ---
 layout: subpage
-title: "Website Post 1"
-categories: epicurus
+title: "Post 1: Code of Ethics"
+date: 2019-01-24 01:00:00 -0500
 subpage: true
 coursepage: false
+categories: epicurus
 ---
 
 ## Purpose
