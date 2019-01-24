@@ -10,7 +10,6 @@ coursepage: false
 ### ― Confucius, *The Analects*
 
 # _Confucian Ethics_
-###### *Adam Chvilicek, Brynne DuBois, Anthony DiFalco, Chris Clarizio, Jared Diesslin, Joey DiMaria, Maru Choi, Megan Cullen, Zac Candejas*
 ### __Purpose__
 Confucian Ethics emphasize a focus on the relationships between human beings. It is an ethics of virtue that believes in the importance defining virtues and principles in relation to one another. Through Confucian Ethics, it is believed that one achieves the fullest personhood by marking their relationships with mutual care and respect. In summary, Confucianism is based entirely on kindness, mutual respect, and an appreciation for character virtues. It is founded on the belief that a society can only find success when people learn to interact positively with one another. Based on this short summary, an action would be considered ethical through the lens of Confucian Ethics if it focused on positively impacting the relationship between individuals involved with both parties acting with kindness and a mutual respect for one another. For example, if an employee were to make a mistake while working on a project the response for their boss would not be one of anger resulting in punishment. In order to align with Confucian Ethics, the boss would help their employee understand the problem and how to fix it without the need for punishment, as this would have a negative impact on their established relationship.
 ### __Are ethics necessary?__
