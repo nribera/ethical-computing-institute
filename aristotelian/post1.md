@@ -1,12 +1,12 @@
 ---
 layout: subpage
 title: Aristotelian Ethics - Website Post 1
-image: ../css/aristotle.png
-subpage: true
+image: css/aristotle.png
+subpage: false
 coursepage: false
 ---
 
-##Statement of Purpose
+## Statement of Purpose
 
 According to Aristotle, an action is ethical if it is indicative of well-developed ethical virtues such as courage, justice, and generosity. These virtues are the natural products of rational thought but also must be instilled in us from childhood through education and the development of habits. Every ethical virtue is an intermediate between two extremes of excess and deficiency - the “golden mean.” For example, a courageous person has found the perfect balance between cowardice, where one would run away from all challenges, and rashness, where one would charge forward irrationally. However, different circumstances call for different means, and there is no universal rule. Even so, there are some actions that Aristotle condemns unequivocally, such as adultery, theft, and murder. This notion of a mean state does not constitute a procedure for deciding whether an action is virtuous, because Aristotle does not provide one. Instead, he says that the mean state is a product of a reason and should be found by anyone who has been properly educated in ethics and is living ethically.  
 
@@ -18,7 +18,7 @@ Three issues in computer technology that Aristotelian ethics would have a lot to
 
 [Source](https://plato.stanford.edu/entries/aristotle-ethics)
 
-##IEEE Code of Ethics
+## IEEE Code of Ethics
 
 The IEEE Code of Ethics outlines, in ten points, some basic guidelines for professionals. Primarily, the Code is focused on honesty and integrity, inclusion and cooperation, and preventing harm to any persons or their property.
 
@@ -28,7 +28,7 @@ Despite these similarities, however, the IEEE Code of Ethics is significantly di
 
 In accordance with the differences between the Code and Aristotle’s ethical framework, one thing that is missing from the Code that Aristotelian ethics might provide is a more general point. Rather than dictating specific actions that professionals must take to be “ethical”, Aristotelian ethics could add a point that simply dictates that all individuals should behave virtuously: always striving to live a virtuous life.
 
-##ACM Code of Ethics
+## ACM Code of Ethics
 
 The ICCP code of ethics consists of three sections centered around three different aspects of professional ethical behavior. The code as a whole focuses on the responsibilities of computing professionals to their particular organizations, to the computing community, and to the general public.
 
@@ -38,7 +38,7 @@ That said, the ICCP code of ethics is built to apply specifically to the field o
 
 While the ICCP code of ethics states clearly what professionals should do in their career capacity and in the scope of their membership in the institute, it has little to say about one’s life outside of this scope. For instance, there is little in the code of ethics that discusses virtues, like temperance, that only apply outside of work, but if not followed can infringe upon a professional work ethic.
 
-##ICCP Code of Ethics
+## ICCP Code of Ethics
 
 The ACM code of ethics consists of four sections. Section one dictates ethical and moral imperatives that apply to one’s life, but also specifically to one’s work. Section two focuses on being a good employee and emphasizes keeping up to date with one’s competence at work. Section three is geared specifically towards leaders, and section four simply enforces the previous sections.
 
