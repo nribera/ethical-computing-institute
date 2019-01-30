@@ -11,6 +11,6 @@ coursepage: false
 
 ## Posts
 
-[Web Post 1](/stoic/web-post-1.html)
+[Web Post 1](_posts/stoic/web-post-1.html)
 
-[Web Post 2](/stoic/web-post-2.html)
+[Web Post 2](_posts/stoic/web-post-2.html)
