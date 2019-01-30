@@ -2,7 +2,7 @@
 layout: epicurus-postpage
 title: Stoic Ethics Post 1
 date: 2019-01-24 01:00:00 -0500
-image: css/zeno.png
+image: /ethical-computing-institute/css/zeno.png
 epicurus-postpage: true
 subpage: false
 coursepage: false
