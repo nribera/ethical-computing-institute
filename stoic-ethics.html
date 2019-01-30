@@ -12,5 +12,7 @@ coursepage: false
 <h2> Posts </h2>
 
 {% for post in site.categories.stoic %}
-  <a href="{{ site.baseurl | append: post.url }}">{{ post.title }}</a>
+  <p>
+    <a href="{{ site.baseurl | append: post.url }}">{{ post.title }}</a>
+  </p>
 {% endfor %}
