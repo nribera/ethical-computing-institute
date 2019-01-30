@@ -1,8 +1,8 @@
 ---
-layout: epicurus-postpage
+layout: postpage
 title: "Post 1: Code of Ethics"
 date: 2019-01-24 01:00:00 -0500
-image: /ethical-computing-institute/css/epicurus.png
+image: /ethical-computing-institute/css/zeno.png
 epicurus-postpage: true
 subpage: false
 coursepage: false
