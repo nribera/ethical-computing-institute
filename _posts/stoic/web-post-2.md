@@ -1,8 +1,11 @@
 ---
-layout: subpage
-title: Stoic Ethics Post 2
+layout: postpage
+title: "Stoic Ethics Post 2.1"
+image: /ethical-computing-institute/css/zeno.png
+epicurus-postpage: true
 subpage: false
 coursepage: false
+categories: stoic
 ---
 
 # Web Post 2
