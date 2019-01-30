@@ -1,0 +1,21 @@
+---
+layout: subpage
+title: Stoic Ethics Post 2
+subpage: false
+coursepage: false
+---
+
+# Web Post 2
+
+### Analysis of Gender Bias in Tech:
+___
+
+When it comes to gender issues in tech, stoicism is certainly having a moment. Many people are turning to this ethical framework to address key problems, specifically the belief that there are innate gender differences that account for different levels of ability, interests, preferences, or intelligence between men and women. To expand on this discrimination, a quote in Liza Mundy’s article for the Atlantic reads, “Women not only are hired in lower numbers than men are; they also leave tech at more than twice the rate men do… studies show that women who work in tech are interrupted in meetings more often than men. They are evaluated on their personality in a way that men are not. They are less likely to get funding from venture capitalists…And in a particularly cruel irony, women’s contributions to open-source software are accepted more often than men’s are, but only if their gender is unknown.” As if blatant bias and misrepresentation wasn’t enough, women are consistently judged, even by themselves, as lacking the “genius” trait that define the stereotypical male tech guru, and by consequence don’t consider a role in the industry or aren’t considered by others for more technical roles.
+
+However, research on gender differences is often interpreted incorrectly. In many cases, the societal shaping, pressures, environment and unconscious bias is not incorporated into explaining studies. One thing research does conclude is that there is no hardwired difference between men and women. Instead, these differences arise from the societal boundaries that have historically defined gender. So far, the industry’s answer to gender issues has been understanding and identifying bias.
+
+Unconscious-bias training is based on the idea that everyone holds natural biases. The key is to be aware of the bias and actively fight against it. Experts are also recommending changing the structure of a company or system. By implementing a set of requirements and procedures that change the way historically biased operations are carried out, like hiring, promoting, and idea generating, companies can prevent people from acting on their bias in the first place. 
+
+Stoicism would offer a different solution, one that would require society to change its behavior and perception of women in tech. Stoicism emphasizes that all people have the same capacity for virtue and the same ability to achieve virtue, regardless of their circumstances. For the Stoics, recognizing equality as humans is a necessity to live virtuously and attain the ultimate goal of happiness.  A major component of virtue is serving other human beings and recognizing people’s common humanity. It was the Stoics who encouraged people to not define themselves or others by location, class, gender, or religion. The only true way to live in agreement with nature is to focus on what makes people similar and form a world community that goes beyond local differences.
+
+Stoicism focuses on what one can control, so focusing on actions rather on the outcome is necessary. With this comes the idea that Stoics are ultimately responsible for what they do—they focus on deliberate and rational actions. By not acting or failing to change a system or environment that is oppressive to others, people cannot attain the ultimate goal—so gender bias has no place in this ethical framework.
