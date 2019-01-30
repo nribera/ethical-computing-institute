@@ -1,7 +1,8 @@
 ---
-layout: subpage
+layout: epicurus-postpage
 title: Stoic Ethics Post 1
 image: css/zeno.png
+epicurus-postpage: true
 subpage: false
 coursepage: false
 ---
