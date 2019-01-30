@@ -56,3 +56,29 @@ Though the principles of Legalism do not closely comport with the ICCP Code of E
 While both Legalism and the ICCP base their principles in a concept of a collective good, these concepts differ in important ways. While Legalism’s core principle is the strength and stability of the state itself, the ICCP maintains a concept of individual human rights and dignity (2.1, 3.3). Along with this dignity comes with an expectation of autonomy and personal privacy (1.1, 1.6), both of which contradict the Legalist philosophy. Along similar lines, the ICCP guidelines promote respect for creators and their intellectual properties (1.5) whereas Legalists would almost certainly expect all technology to come under the control of the state. Another difference appears in section 1.1 when the ICCP Code outlines its expectation of respect for diversity and preferential treatment for the disadvantaged; Legalism has no such interest in individual identity. Finally, while the ICCP recognizes that failures can occur mistakenly and allows workers to take responsibility for their errors, Legalism punishes even unintentional flaws to threaten onlookers through displays of power.
 
 One thing that Legalism has that the ICCP neglects is a system of punishment. While the ICCP’s code is thorough in its description of appropriate behavior, it does not address any possibility for punitive action. Where the ICCP seems toothless, Legalism is anything but. The historical example of punishing unproductive farmers with slavery shows an extreme willingness to judge and punish. The ICCP probably does not wish to be so vindictive, but they may be able to replicate the Legalist system on a smaller, more merciful scale.
+
+
+
+# Blog Post 2 (1/31/19)
+## H-1B Visas
+### Arguments For
+
+### Arguments Against
+
+
+### Legalist Response
+
+## Google Internal Memo
+### Summary
+
+### Legalist Response
+
+## Gender Bias in Tech
+### Summary
+
+### Legalist Response
+
+## Race and Ethnicity Biases in Tech
+### Summary
+
+### Legalist Response
