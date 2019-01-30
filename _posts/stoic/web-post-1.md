@@ -5,6 +5,7 @@ image: css/zeno.png
 epicurus-postpage: true
 subpage: false
 coursepage: false
+categories: stoic
 ---
 
 # Web Post 1
