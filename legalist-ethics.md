@@ -11,4 +11,7 @@ coursepage: false
 ### - Shang Yang, *The Book of Lord Shang*
 
 ## Blog Posts
-{% for post in site.categories.legalism %} {{ post.title }} {% endfor %}
+
+{% for post in site.categories.legalism %}
+  <a href="{{ site.baseurl | append: post.url }}">{{ post.title }} ( {{post.date }} )</a><br>
+{% endfor %}
