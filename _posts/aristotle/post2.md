@@ -1,9 +1,11 @@
 ---
-layout: subpage
-title: Aristotelian Ethics - Website Post 2
-image: css/aristotle.png
+layout: epicurus-postpage
+title: "Post 2"
+image: /ethical-computing-institute/css/aristotle.png
 subpage: false
 coursepage: false
+categories: aristotle
+epicurus-postpage: true
 ---
 
 ## The H-1B Visa System
@@ -22,6 +24,13 @@ Aristotle would not agree with the current H-1B visa system simply for the fact 
 
 ## The Google Internal Memo
 
+The Gizmodo article was about a statement propagated by a Google software engineer (a white male) in response to a recent investigation by the U.S. Department of Labor on the tech giant. Although Google had purported to pay all its employees fairly, its engineers’ complaints about unfair wage gaps had prompted the government agency to look further into the issue and came to the conclusion that Google DID indeed pay its engineers unequally. Specifically with regards to this article, the Department of Labor noted that men and women in comparable roles in the company received significantly different salaries with men earning more than women.
+
+The Googler who put out the memo, senior software engineer James Damore, argued that Google was just in paying its employees differently due to innate differences between men and women. Much of his argument revolved around pretty generalizing statements about biological and psychological differences. Although there is some merit to what he says since he often drops statistics (such as the fact that men value “status” more than women and thus are more likely to take “dangerous” jobs in the workforce and consequently account for 93% of work-related deaths), Damore also suggests more subjective components in his memo such as “women on average show a higher interest in people and men in things” and “[women have more] extraversion expressed as gregariousness rather than assertiveness. Also, higher agreeableness… [women generally have] a harder time negotiating salary, asking for raises, speaking up, and leading.” Subjective statements like these are likely what ignited a divisive debate within the tech giant as well as the U.S. workforce at large.
+
+First of all, the Aristotelian ethical framework would commend Damore’s courage as it does not fall to the vices of neither cowardice nor rashness. At least he found it within his character to speak up about the issue instead of remaining silent and he does not easily jump to conclusions (i.e. not overly sexist) since he tries to rationalize and sympathize with his readers. On a similar note, Damore also exhibits the virtue of self control since he is very systematic in his argument; his position is clear and unambiguous but at the same time is carefully crafted. The ethical elements of the memo mostly lie in its presentation and tone rather than content, which is an important distinction to note.
+
+With regards to content, the Aristotelian framework would likely find many aspects unethical. For example, the bulk of the memo’s argument revolves around so-called “biological differences” between men and women. Although these biological differences are true and impossible to refute, the conclusions he comes to with their aid are questionable. One such claim is when he says that women are more likely to just remain quiet and accept what their superiors tell them whereas men have a stronger drive to achieve a higher status. This MAY be attributable to biological differences like the presence of more testosterone in men (which promotes competitiveness) but the way it came off was stereotypical. In this case, it falls victim to the vice of insensibility because the writer (a white male) is heavily generalizing about the female sex to try and make a point. Another pitfall that this memo suffers from is the vice of pride. It can be deduced fairly quickly by a comprehensive reader that it was written by a white male because of how the writer defends/qualifies why there is a gender/racial gap in salaries. The writer tries his best to not be discriminatory in his argument but it’s clear that he’s biased and trying to defend his own demographic. This is considered to be prideful since it seems to be his subconscious appreciation for being a white male and he appears to be “putting down” any position that attacks him.
 
 
 ## Gender Bias in Tech
