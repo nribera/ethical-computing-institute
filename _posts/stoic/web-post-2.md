@@ -23,7 +23,6 @@ Stoicism would offer a different solution, one that would require society to cha
 
 Stoicism focuses on what one can control, so focusing on actions rather on the outcome is necessary. With this comes the idea that Stoics are ultimately responsible for what they do—they focus on deliberate and rational actions. By not acting or failing to change a system or environment that is oppressive to others, people cannot attain the ultimate goal—so gender bias has no place in this ethical framework.
 
-___
 
 ### Response to Internal Google Memo:
 ___
