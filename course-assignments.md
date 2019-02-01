@@ -134,3 +134,36 @@ coursepage: true
   + A general overview of how your ethical framework would enforce or reinforce corporate social responsibility. (5 Points)
   + A brief example of an instance where the proposed overview would correct unethical behavior. (5 Points)
 + The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
+
+## Website Post 4 (60 Points) <a name="website-post-4">
+### Purpose:
++ Identify the underlying issues and stakeholders in a case of corporate malfeasance.
++ Analyze the ethical argumentation for a potential case of corporate malfeasance.
++ Compare your argumentation to two other ethical frameworks.
+
+### Instructions:
++ Use the fork of the course GitHub repository you set up in [Website Post 1](course-assignments#website-post-1) to commit your Git changes.
+  + Make a pull request to the original repository by the due date.
++ Write a case brief on the relationship between IBM and Nazi Germany.
++ Write an ethical analysis on the implementation of a Muslim registry using your ethical framework as a guide.
++ Write two comparison interviews between your framework and the two you believe are most divergent from yours.
+  + For this one, you will need to interview someone from two different ethical framework groups.
+
+### Due Date:
++ Your pull request to the original GitHub repository is due when class starts (15:30) on 02/14/2019.
+
+### Requirements:
++ Your case brief (~500 Words) must include:
+  + A summary of relevant facts which could be used to determine the culpability of IBM. (5 Points)
+  + A listing of the stakeholders in this controversy (as it stands today) and their positions. (5 Points)
+  + A statement on the ethical culpability of IBM with respect to your ethical framework. (5 Points)
++ Your analysis of the Muslim registry controversy (~1,000 words) must include:
+  + A summary of relevant facts regarding the current state of the controversy. (5 Points)
+  + An argument for or against the implementation of a Muslim registry by a private corporation, citing *at least* three specific pieces of evidence to make your point. (10 Points)
+  + A summary of whether or not your analysis would change (and why) if the registry was implemented by a government entity instead of a corporation. (5 Points)
++ Each of your two interviews with another framework (~500 Words) must include:
+  + A statement on how and why you believe your argumentation for or against a Muslim registry diverges from the interviewed framework. (5 Points)
+  + A summary of the statements made by the framework interviwed. State whether your initial thoughts were accurate or not. (5 Points)
++ The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
+
+
