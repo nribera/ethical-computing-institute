@@ -162,8 +162,8 @@ coursepage: true
   + An argument for or against the implementation of a Muslim registry by a private corporation, citing *at least* three specific pieces of evidence to make your point. (10 Points)
   + A summary of whether or not your analysis would change (and why) if the registry was implemented by a government entity instead of a corporation. (5 Points)
 + Each of your two interviews with another framework (~500 Words) must include:
-  + A statement on how and why you believe your argumentation for or against a Muslim registry diverges from the interviewed framework. (5 Points)
-  + A summary of the statements made by the framework interviwed. State whether your initial thoughts were accurate or not. (5 Points)
+  + A statement on how and why you believe your argumentation for or against a Muslim registry diverges from the arguments you anticipate from the interviewed framework. (5 Points)
+  + A summary of the statements made by the framework interviewed. State whether your initial thoughts were accurate or not (and why). (5 Points)
 + The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
 
 
