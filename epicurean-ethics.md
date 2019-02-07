@@ -12,5 +12,5 @@ coursepage: false
 ## Posts
 
 {% for post in site.categories.epicurus %}
-  [{{ post.title }}]("{{ site.baseurl | append: post.url }}")<br>
+  [{{ post.title }}]({{ site.baseurl | append: post.url }})<br>
 {% endfor %}
