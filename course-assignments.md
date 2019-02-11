@@ -166,4 +166,34 @@ coursepage: true
   + A summary of the statements made by the framework interviewed. State whether your initial thoughts were accurate or not (and why). (5 Points)
 + The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
 
+## Website Post 5 (60 Points) <a name="website-post-5">
+### Purpose:
++ Identify the key stakeholders in the issue of network neutrality.
++ Analyze the ethical argumentation for or against deplatforming individuals or organizations from the Internet.
++ Propose a potential outcome of deplatforming upon online echo chambers.
+
+### Instructions:
++ Use the fork of the course GitHub repository you set up in [Website Post 1](course-assignments#website-post-1) to commit your Git changes.
+  + Make a pull request to the original repository by the due date.
++ Write a summary of key stakeholders and their positions in the issue of network neutrality.
++ Write a critical anylsis of deplatforming using your ethical framework as a guide.
++ Write a brief proposition of the potential effects deplatforming could have upon online echo chambers.
+
+### Due Date:
++ Your pull request to the original GitHub repository is due when class starts (15:30) on 02/21/2019.
+
+### Requirements:
++ Your summary (~500 Words) must include:
+  + A listing of each key group of stakeholders in the issue of net neutrality. (5 Points)
+  + A summary of their core beliefs and position on the issue. (5 Points)
++ Your analysis of deplatforming (~1,000 Words) must include:
+  + A summary of the opposition to deplatforming. (5 Points)
+  + A summary of the proponents of deplatforming. (5 Points)
+  + An analysis either in favor or against deplatforming, citing specific elements of your ethical framework to make your point. (10 Points)
++ Your proposition (~700 Words) must inclue:
+  + A summary of facts about online echo chambers. (5 Points)
+  + A summary of recent deplatforming attempts and their outcomes. (5 Points)
+  + An argument whether deplatforming could affect online echo chambers. (10 Points)
+    + If so, argue how. If not, argue why not. (5 Points)
++ The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
 
