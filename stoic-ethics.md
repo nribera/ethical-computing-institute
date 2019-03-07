@@ -37,7 +37,7 @@ Personal responsibility is a number from 0 to 1 that represents how positively t
 Civic responsibility is a number from 0 to 1 that represents how positively the decision affects this responsibility.
 The input is an array of all possible decisions.
 An array of how virtuous/rational decisions are is kept.
-
+```
 i = 0
 
 rational [0]
@@ -75,7 +75,7 @@ for i,j in rational[]:
   if j > highsum:
 
     highsum = j
-    
-    mostethical = decision[i]
 
+    mostethical = decision[i]
+```
 mostethical will be the most ethical decision, therefore most virtuous decision from a Stoic standpoint.
