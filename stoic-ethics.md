@@ -39,24 +39,43 @@ The input is an array of all possible decisions.
 An array of how virtuous/rational decisions are is kept.
 
 i = 0
+
 rational [0]
+
 func Stoic(decision[], i)
+
   emotion = getEmot(decision[i])
+
   if emotion:
+
     rational[i] = 0
+
     Stoic(decision[],i+1)
+
   else:
+
     professional = getProf(decision[i])
+
     social = getSoc(decision[i])
+
     personal = getPers(decision[i])
+
     civic = getCivic(decision[i])
+
     rational[i] = sum(professional, social, personal, civic)
+
     Stoic(decision[], i+1)
+
 highsum = 0
+
 mostethical = decision[0]
+
 for i,j in rational[]:
+
   if j > highsum:
+
     highsum = j
+    
     mostethical = decision[i]
 
 mostethical will be the most ethical decision, therefore most virtuous decision from a Stoic standpoint.
